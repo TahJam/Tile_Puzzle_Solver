@@ -1,4 +1,4 @@
-# TilePuzzle
+# UnBlock Me Solver
 A simple solver for the tile puzzle game that uses search to find the best moves to achieve goal. The user will use a limit to allow the program to explore other branches after the limit has been reached.
 
 ## Tile Puzzle Game
